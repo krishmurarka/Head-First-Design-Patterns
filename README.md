@@ -10,7 +10,7 @@ This repository contains Java implementations of various design patterns discuss
 
 2. **Observer Pattern:**
     - The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
-    - [Click here to view the implementation](Pattern/Observer_pattern/)
+    - [Click here to view the implementation](Patterns/Observer_pattern/)
 
 ## How to Use:
 
